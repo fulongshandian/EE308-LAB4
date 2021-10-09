@@ -1,0 +1,5 @@
+<!--pages/MultiPlayer/MultiPlayer.wxml-->
+<view class="container">
+  <image class="background" src="/image/中秋圆月.jpg"></image>
+</view>
+<button class="button" bindtap="togoto">选择人数</button>

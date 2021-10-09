@@ -1,0 +1,41 @@
+/**index.wxss**/
+.background{
+  
+  margin-top: 0px;
+  width: 120%;
+  height: 808px;
+  
+}
+.button1{
+  height: 225rpx;
+  width: 400rpx; 
+  top: 500rpx;
+  font-size: 50rpx;
+  text-align: center;
+  line-height: 168rpx;
+  border-radius: 100rpx;
+  background-color: rgb(86, 140, 221);
+  border: 10px solid white;
+}
+.button2{
+  height: 225rpx;
+  width: 400rpx; 
+  top: 550rpx;
+  font-size: 50rpx;
+  text-align: center;
+  line-height: 168rpx;
+  border-radius: 100rpx;
+  background-color: rgb(86, 140, 221);
+  border: 10px solid white;
+}
+.button3{
+  height: 225rpx;
+  width: 400rpx; 
+  top: 600rpx;
+  font-size: 50rpx;
+  text-align: center;
+  line-height: 168rpx;
+  border-radius: 100rpx;
+  background-color: rgb(86, 140, 221);
+  border: 10px solid white;
+}

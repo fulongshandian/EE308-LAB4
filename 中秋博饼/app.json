@@ -1,0 +1,53 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/rank/rank",
+    "pages/rule/rule",
+    "pages/online/online",  
+    "pages/SinglePlayer/SinglePlayer",
+    "pages/SinglePlayer1/SinglePlayer1",
+    "pages/SinglePlayer3/SinglePlayer3",
+    "pages/MultiPlayer/MultiPlayer",
+    "pages/MultiPlayer1/MultiPlayer1",
+    "pages/MultiPlayer2/MultiPlayer2",
+    "pages/MultiPlayer3/MultiPlayer3",
+    "pages/MultiPlayer4/MultiPlayer4",
+    "pages/MultiPlayer5/MultiPlayer5",
+    "pages/MultiPlayer6/MultiPlayer6",
+    "pages/result/result",
+    "pages/result1/result1",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#0094ff",
+    "navigationBarTitleText": "中秋博饼",
+    "navigationBarTextStyle":"black"
+  },
+    "tabBar": {
+     "color": "#2b333b",
+     "selectedColor": "#3bb149",
+     "borderStyle": "white",
+      "list": [{
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/shouye.png",
+        "selectedIconPath": "image/shouyefill.png"
+      },
+      {
+      "pagePath": "pages/rank/rank",
+      "text": "排行榜",
+      "iconPath": "image/paihangbang_1.png",
+      "selectedIconPath": "image/paihangbang.png"
+      },
+      {
+      "pagePath": "pages/rule/rule",
+      "text": "规则",
+      "iconPath": "image/wode.png",
+      "selectedIconPath": "image/wode_1.png"
+      }]
+
+     } ,
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

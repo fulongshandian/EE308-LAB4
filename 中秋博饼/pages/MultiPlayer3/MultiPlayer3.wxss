@@ -1,0 +1,33 @@
+/* pages/MultiPlayer3/MultiPlayer3.wxss */
+.background{
+  
+    margin-top: 0px;
+    width: 120%;
+    height: 808px;
+    
+  }
+  .background1{
+  
+    margin-top: 500rpx;
+    width: 500rpx;
+    height: 300px;
+    
+  } 
+  .wanjia{
+    position:fixed;
+    left:75px;
+    bottom: 600px;
+    color:rgb(216, 213, 29) ;
+    font-size: 40px;
+}
+  .button{ 
+    height: 225rpx;
+    width: 400rpx; 
+    top: 150rpx;
+    font-size: 50rpx;
+    text-align: center;
+    line-height: 168rpx;
+    border-radius: 100rpx;
+    background-color: rgb(86, 140, 221);
+    border: 10px solid white;
+  } 

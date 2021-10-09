@@ -1,0 +1,11 @@
+<!--pages/MultiPlayer4/MultiPlayer4.wxml-->
+<view class="container">
+  <image class="background" src="/image/中秋圆月.jpg"></image>
+</view>
+<view class="container">
+  <image class="background1" src="/image/骰子.gif"></image>
+</view> 
+<view>
+<view class="wanjia">玩家2</view>
+</view>
+<button class="button" bindtap="togoto">停</button>

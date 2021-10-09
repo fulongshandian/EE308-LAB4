@@ -1,0 +1,35 @@
+/* pages/MultiPlayer6/MultiPlayer6.wxss */
+.background{
+  
+    margin-top: auto auto;
+    left: -580rpx;
+    width: 280%;
+    height: 808px;
+    
+  }
+.jieguo{
+    position:fixed;
+    left:125px;
+    bottom: 700px;
+    color:rgb(151, 233, 80) ;
+    font-size: 40px;
+}
+.gongxi{
+    position:fixed;
+    left:60px;
+    bottom: 250px;
+    color: rgb(199, 33, 33);
+    font-size: 40px;
+}
+
+.button{ 
+    height: 225rpx;
+    width: 400rpx; 
+    top: 1100rpx;
+    font-size: 50rpx;
+    text-align: center;
+    line-height: 168rpx;
+    border-radius: 100rpx;
+    background-color: rgb(86, 140, 221);
+    border: 10px solid white;
+  } 

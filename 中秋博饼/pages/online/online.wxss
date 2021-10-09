@@ -1,0 +1,26 @@
+/* pages/online/online.wxss */
+.background{
+  
+    margin-top: -120px;
+    width: 120%;
+    height: 930px;
+    
+  }
+.shangweikaifa{
+    position:fixed;
+    left:125px;
+    bottom: 700px;
+    color:rgb(204, 39, 149) ;
+    font-size: 40px;
+}
+.button1{ 
+    height: 225rpx;
+    width: 400rpx; 
+    top: 600px;
+    font-size: 50rpx;
+    text-align: center;
+    line-height: 168rpx;
+    border-radius: 100rpx;
+    background-color: rgb(86, 140, 221);
+    border: 10px solid white;
+  }

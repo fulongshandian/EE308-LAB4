@@ -1,0 +1,8 @@
+/* pages/rank/rank.wxss */
+.background{
+  
+    margin-top: 0px;
+    width: 120%;
+    height: 808px;
+    
+  }

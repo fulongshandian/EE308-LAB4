@@ -1,0 +1,72 @@
+/* pages/result/result.wxss */
+.background{
+  
+    margin-top: -120px;
+    width: 120%;
+    height: 1150px;
+    
+  }
+
+.jieguo{
+      position:fixed;
+      left:125px;
+      bottom: 700px;
+      color:rgb(151, 233, 80) ;
+      font-size: 40px;
+  }
+.button{ 
+    height: 225rpx;
+    width: 400rpx; 
+    top: 600px;
+    font-size: 50rpx;
+    text-align: center;
+    line-height: 168rpx;
+    border-radius: 100rpx;
+    background-color: rgb(86, 140, 221);
+    border: 10px solid white;
+  }
+  .button1{ 
+    height: 225rpx;
+    width: 400rpx; 
+    top: 600px;
+    font-size: 50rpx;
+    text-align: center;
+    line-height: 168rpx;
+    border-radius: 100rpx;
+    background-color: rgb(86, 140, 221);
+    border: 10px solid white;
+  }  
+#font{
+    display: block;
+    margin: auto auto;
+    margin-top: 20rpx;
+    width: 392rpx;
+    height: 110rpx;
+}
+view{
+    display: block;
+    margin: auto auto;
+    margin-top: 150rpx;
+    font-size: 56rpx;
+    text-align: center;
+    color: rgb(199, 33, 33);
+}
+#six{
+    
+    width: 558rpx;
+    height: 362rpx;
+    margin: auto auto;
+}
+view image{
+    width: 136rpx;
+    height: 136rpx;
+    padding-top: 56rpx;
+    padding-left: 56rpx;
+}
+
+#first{
+    padding-left: 0rpx;
+}
+
+
+

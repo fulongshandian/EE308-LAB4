@@ -1,0 +1,6 @@
+<!--pages/rank/rank.wxml-->
+<view class="container">
+  <image class="background" src="/image/R-C.jfif"></image>
+</view>
+
+

@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="background" src="/image/中秋圆月.jpg"></image>
+</view>
+<button class="button1" bindtap="togoto1">单人游戏</button>
+<button class="button2" bindtap="togoto2">多人游戏</button>
+<button class="button3" bindtap="togoto3">在线游戏</button>

@@ -1,0 +1,8 @@
+<!--pages/rule/rule.wxml-->
+<view class="container">
+  <image class="background" src="/image/中秋圆月.jpg"></image>
+</view>
+<view class="container">
+  <image class="background1" src="/image/rule.jfif"></image>
+</view>
+
